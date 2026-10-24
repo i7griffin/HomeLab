@@ -3,7 +3,7 @@
 
 A hands-on home lab that uses **Wazuh** (open-source SIEM/XDR) to collect, analyze, and alert on security events from two endpoints: an **Ubuntu VM** running in VirtualBox and a **Windows host** laptop. Everything runs on a single laptop.
 
-> Status: work in progress. See the [Roadmap](#roadmap).
+> Status: work in progress
 
 ---
 
